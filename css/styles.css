@@ -1,4 +1,8 @@
-.blockquote {
+.visitorquotes {
   float: right;
   margin: 20px;
+}
+
+.intro p {
+  text-align: center;
 }
